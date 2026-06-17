@@ -1,5 +1,5 @@
 https://github.com/aryantheog/github-final-project/blob/main/LICENSE
 https://github.com/aryantheog/github-final-project/blob/main/README.md
 https://github.com/aryantheog/github-final-project/blob/main/CODE_OF_CONDUCT.md
-.
+https://github.com/aryantheog/github-final-project/blob/main/CONTRIBUTING.md
 https://github.com/aryantheog/github-final-project/blob/main/simple-interest.sh
